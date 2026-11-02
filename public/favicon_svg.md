@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5" />
+      <stop offset="100%" stop-color="#9333EA" />
+    </linearGradient>
+  </defs>
+  <!-- Background Rounded Rectangle -->
+  <rect width="64" height="64" rx="16" fill="url(#grad)" />
+  
+  <!-- Central Icon / Letter -->
+  <text x="50%" y="54%" dominant-baseline="central" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="36" fill="#FFFFFF">
+    F
+  </text>
+</svg>
